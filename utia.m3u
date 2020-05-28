@@ -122,7 +122,7 @@ http://itv.ahau.edu.cn/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/jiaoyu.png" group-title="WSTV",教育卫视
 http://cctvalih5ca.v.myalicdn.com/cstv/sdetv_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/haixia.png"  group-title="WSTV",海峡卫视
-http://116.211.251.113/stream6.fjtv.net/haixia/sd/live.m3u8?_upt=cec28f2a1580629566&drm
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=024&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="60"  tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/nanfang.png" group-title="WSTV",南方卫视
 http://223.110.255.152:6610/gitv/live1/G_NANFANG/G_NANFANG/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/nonglin.png" group-title="WSTV",农林卫视
@@ -163,23 +163,23 @@ http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/chcdongzuo.png" group-title="CSTV",CHC动作电影
 http://iptv.pdsu.edu.cn/hls/chcatv.m3u8
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技"  tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/bingqikeji.png" group-title="CSTV",CCTV兵器科技
-http://player.ioioz.com/17/0/migum3u8.php?id=623338073
+http://player.ioioz.com/1786/0/migum3u8.php?id=623338073
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="CSTV",CCTV风云足球
 http://itv.ahau.edu.cn/hls/fyzqtv.m3u8
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/gaoerfuwq.png" group-title="CSTV",CCTV高尔夫网球
-http://player.ioioz.com/17/0/migum3u8.php?id=621984921
+http://player.ioioz.com/1786/0/migum3u8.php?id=621984921
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="CSTV",CCTV台球
-http://player.ioioz.com/17/0/migum3u8.php?id=603842910
+http://player.ioioz.com/1786/0/migum3u8.php?id=603842910
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="CSTV",CCTV风云音乐
-http://player.ioioz.com/17/0/migum3u8.php?id=623338072
+http://player.ioioz.com/1786/0/migum3u8.php?id=623338072
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="CSTV",CCTV风云剧场
-http://player.ioioz.com/17/0/migum3u8.php?id=623338051
+http://player.ioioz.com/1786/0/migum3u8.php?id=623338051
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/huaijiujc.png" group-title="CSTV",CCTV怀旧剧场
-http://player.ioioz.com/17/0/migum3u8.php?id=623364608
+http://player.ioioz.com/1786/0/migum3u8.php?id=623364608
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="CSTV",CCTV第一剧场
-http://itv.ahau.edu.cn/hls/dyjctv.m3u8
+http://125.210.152.18:9090/live/DYJC.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="CSTV",CCTV世界地理
-http://player.ioioz.com/17/0/migum3u8.php?id=623338083
+http://player.ioioz.com/1786/0/migum3u8.php?id=623338083
 #EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="CSTV",CCTV发现之旅
 http://223.110.255.152:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="CSTV",CCTV老故事
@@ -187,11 +187,11 @@ http://223.110.255.152:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="CSTV",CCTV女性时尚
 http://223.110.255.152:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/
 #EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="CSTV",CCTV央视精品
-http://player.ioioz.com/17/0/migum3u8.php?id=623338084
+http://player.ioioz.com/1786/0/migum3u8.php?id=623338084
 #EXTINF:-1 tvg-id="6952" tvg-name="新科动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVxinke.png" group-title="CSTV",CCTV新科动漫
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/weishengjk.png" group-title="CSTV",CCTV卫生健康
-http://183.238.77.8:9090/live/weishengjiankang_1500.m3u8
+http://125.210.152.18:9090/live/WSJK.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/dianshizhinan.png" group-title="CSTV",CCTV电视指南
 http://39.135.15.212:6610/PLTV/88888888/224/3221225673/1/index.m3u8
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/zaoqijiaoyu.png" group-title="CSTV",CCTV早期教育
@@ -219,7 +219,7 @@ http://183.238.77.8:9090/live/huanqiuqiguan_1500.m3u8
 #EXTINF:-1 tvg-id="6606" tvg-name=""  tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/sihaidiaoyu.png" group-title="CSTV",四海钓鱼
 http://player.ioioz.com/17/sc/scyxm3u8.php?id=shdy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/gdzongyi.png" group-title="CSTV",广东综艺
-http://nclive.grtn.cn/4K/sd/live.m3u8
+http://nclive.grtn.cn/4K/playlist.m3u8
 #EXTINF:-1 tvg-id="1202" tvg-name="英语辅导频道" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/yingyufudao.png" group-title="CSTV",英语辅导
 http://itv.ahau.edu.cn/hls/hls107.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="CSTV",嘉佳卡通
