@@ -25,7 +25,7 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="CCTV",CCTV-12HD
 http://223.110.255.152:6610/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="CCTV",CCTV-13HD
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+http://ali.m.l.cztv.com/channels/lantian/channel16/1080p.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="CCTV",CCTV-14HD
 http://223.110.255.152:6610/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV",CCTV-15HD
@@ -39,8 +39,7 @@ http://itv.ahau.edu.cn/hls/hls67a43.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNdoc" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="CCTV",CGTN-DOCHD
 http://itv.ahau.edu.cn/hls/hls67a44.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="CCTV",CCTV-4K
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-
+http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51021/2300.m3u8
 
 
 
@@ -117,11 +116,11 @@ http://223.110.255.152:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/
 #EXTINF:-1 tvg-id="65" tvg-name="黄河卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="WSTV",黄河卫视
 http://live3.sxrtv.com/flvss?bitrate=512000&channel=HuangHeNews
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png"  group-title="WSTV",三沙卫视
-http://player.ioioz.com/17/0/hogem3u8.php?tv=hainan&id=7
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227002/index.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="WSTV",康巴卫视
 http://itv.ahau.edu.cn/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/jiaoyu.png" group-title="WSTV",教育卫视
-http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
+http://cctvalih5ca.v.myalicdn.com/cstv/sdetv_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/haixia.png"  group-title="WSTV",海峡卫视
 http://116.211.251.113/stream6.fjtv.net/haixia/sd/live.m3u8?_upt=cec28f2a1580629566&drm
 #EXTINF:-1 tvg-id="60"  tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/nanfang.png" group-title="WSTV",南方卫视
