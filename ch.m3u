@@ -169,7 +169,7 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
 rtmp://58.200.131.2:1935/livetv/btv10hd
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="SETV",北京卡酷少儿
 http://223.110.251.152:6610/cntv/live1/kakukaton/kakukaton
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",湖南金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="SETV",湖南金鹰卡通
 http://223.110.251.152:6610/cntv/live1/jinyingkaton/jinyingkaton
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="SETV",江苏优漫卡通
 http://223.110.251.152:6610/cntv/live1/youmankaton/youmankaton
@@ -177,7 +177,7 @@ http://223.110.251.152:6610/cntv/live1/youmankaton/youmankaton
 http://223.110.251.152:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="SETV",上海哈哈炫动
 http://223.110.251.152:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",湖南金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="SETV",湖南金鹰卡通
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV9/FJTV9.jpg" group-title="SETV",福建少儿
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226960/index.m3u8
