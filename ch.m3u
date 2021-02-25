@@ -226,17 +226,17 @@ https://live.mastvnet.com/4rlff1m/1024/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lotustv.jpg" group-title="NWTV",莲花卫视
 http://live-hls.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="NWTV",凤凰电影台
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 tvg-id="511" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="NWTV",星空卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/starsports.jpg" group-title="NWTV",卫视体育台
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+rtmp://58.200.131.2:1935/livetv/starsports
 #EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="NWTV",Channel[V]
-rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+rtmp://58.200.131.2:1935/livetv/channelv
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="NWTV",探索频道
-rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+rtmp://58.200.131.2:1935/livetv/discovery
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="NWTV",国家地理
-rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+rtmp://58.200.131.2:1935/livetv/natlgeo
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/qsjilu.png" group-title="NWTV",求索记录
 http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/qskexue.png" group-title="NWTV",求索科学
