@@ -155,36 +155,20 @@ http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="SETV",CCTV14
 http://223.110.251.152:6610/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="SETV",CCTV14
-http://140.207.241.18:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="SETV",CCTV14
-http://117.71.37.15/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="SETV",上海哈哈炫动
+EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="SETV",上海哈哈炫动
 http://140.207.241.3:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="SETV",SiTV动漫秀场
 http://140.207.241.3:8080/live/program/live/dmxchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="SETV",北京卡酷少儿
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="SETV",北京卡酷少儿
-rtmp://58.200.131.2:1935/livetv/btv10hd
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="SETV",北京卡酷少儿
-http://223.110.251.152:6610/cntv/live1/kakukaton/kakukaton
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="SETV",湖南金鹰卡通
-http://223.110.251.152:6610/cntv/live1/jinyingkaton/jinyingkaton
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="SETV",江苏优漫卡通
 http://223.110.251.152:6610/cntv/live1/youmankaton/youmankaton
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="SETV",广东嘉佳卡通
 http://223.110.251.152:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="SETV",上海哈哈炫动
-http://223.110.251.152:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="SETV",湖南金鹰卡通
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV9/FJTV9.jpg" group-title="SETV",福建少儿
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226960/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV9/FJTV9.jpg" group-title="SETV",福建少儿
-rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV9/FJTV9.jpg" group-title="SETV",福建少儿
-http://player.ioioz.com/1786/fj/fjtvm3u8.php?id=fjtv9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HEBEI5/HEBEI5.jpg" group-title="SETV",河北少儿科教
 http://live6.plus.hebtv.com/sekjx/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XJTV12/XJTV12.jpg" group-title="SETV",新疆少儿
@@ -195,8 +179,6 @@ http://stream3.hljtv.com/hljse2/sd/live.m3u8
 http://player.ioioz.com/1786/gd/gdtvm3u8.php?id=gdse
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZJTV8/ZJTV8.jpg" group-title="SETV",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZJTV8/ZJTV8.jpg" group-title="SETV",浙江少儿
-http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-id="1431" tvg-name="山东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png" group-title="SETV",山东少儿
 http://livealone302.iqilu.com/iqilu/sepd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NBTV5/NBTV5.jpg" group-title="SETV",宁波少儿
@@ -209,8 +191,6 @@ http://player.ioioz.com/1786/hoge/hogechm3u8.php?tv=jinan&id=11
 http://live5.m2oplus.nmtv.cn/4/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CCQTV10/CCQTV10.jpg" group-title="SETV",重庆少儿
 http://219.153.252.50/PLTV/88888888/224/3221225625/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CCQTV10/CCQTV10.jpg" group-title="SETV",重庆少儿
-http://219.153.252.50/PLTV/88888888/224/3221225646/chunklist.m3u8
 #EXTINF:-1 tvg-id="6592" tvg-name="新科动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVxinke.png" group-title="SETV",新科动漫
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FZTV-BABY/FZTV-BABY.jpg" group-title="SETV",福州少儿
