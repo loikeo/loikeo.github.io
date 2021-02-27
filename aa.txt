@@ -69,7 +69,7 @@ CCTV4K,http://210.22.242.108/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
 
 
 
-🏙WSTV,#genre#
+🌁WSTV,#genre#
 北京卫视,http://223.110.251.152:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
 东方卫视,http://223.110.251.152:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
 广东卫视,http://223.110.251.152:6610/gitv/live1/G_GUANGDONG-CQ/G_GUANGDONG-CQ/
@@ -1537,7 +1537,7 @@ Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
 
 
 
-🏜陕西SNTV,#genre#
+🐎陕西SNTV,#genre#
 陕西yinhe
 信号测试,http://111.20.105.60:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 信号测试,http://111.20.105.60:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -2038,7 +2038,7 @@ IPTV8+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226344/index.m3u8
 
 
 
-🏞️江浙PLTV,#genre#
+🚢江浙PLTV,#genre#
 浙江移动PLTV 
 CCTV4K,http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
 百视通4K,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
@@ -2805,7 +2805,7 @@ NNM家庭理财,http://ott.js.chinamobile.com/PLTV/3/224/3221227011/index.m3u8
 购物,http://ott.js.chinamobile.com/PLTV/3/224/3221227572/index.m3u8
 购物,http://ott.js.chinamobile.com/PLTV/3/224/3221227765/index.m3u8
 
-🇺🇳GATV,#genre# 
+⛵️GATV,#genre# 
 BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 abc,https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 abc kids,https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
