@@ -2909,7 +2909,7 @@ ABC,rtmp://59.124.75.156/sat/us102
 无信号,rtmp://59.124.75.156/sat/us281
 无信号,rtmp://59.124.75.156/sat/us282
 
-⛰云南GITV_1,#genre#
+🌈云南GITV_1,#genre#
 美雲あい,https://www.ugbcdn.com/20201225/mEYRxQPe/index.m3u8
 橋本玲美,https://www.ugbcdn.com/20201225/HEonUPSq/index.m3u8
 豊田ゆう,https://www.ugbcdn.com/20201225/WJ4vKKiO/index.m3u8
