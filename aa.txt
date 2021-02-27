@@ -1,5 +1,5 @@
 
-CCTV,#genre#
+🇨🇳CCTV,#genre#
 CCTV1,http://117.169.120.130:8080/live/HD-8000k-1080P-cctv1/index.m3u8
 CCTV1,http://117.169.120.130:8080/live/cctv-1/index.m3u8
 CCTV2,http://117.169.120.130:8080/live/HD-8000k-1080P-cctv2/index.m3u8
@@ -69,7 +69,7 @@ CCTV4K,http://210.22.242.108/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
 
 
 
-WSTV,#genre#
+🏙WSTV,#genre#
 北京卫视,http://223.110.251.152:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
 东方卫视,http://223.110.251.152:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
 广东卫视,http://223.110.251.152:6610/gitv/live1/G_GUANGDONG-CQ/G_GUANGDONG-CQ/
@@ -246,7 +246,7 @@ Channel[V],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 探索发现,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 
-SETV,#genre#
+⚽SETV,#genre#
 CCTV14,http://223.110.251.152:6610/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
 CCTV14,http://140.207.241.18:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
 CCTV14,http://117.71.37.15/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1
@@ -290,7 +290,7 @@ SiTV动漫秀场,http://140.207.241.3:8080/live/program/live/dmxchd/4000000/mnf.
 云南少儿,http://yntvpullhls.ynradio.com/live/yunnanshaoer/playlist.m3u8
 成都少儿,http://67.230.188.214/17/sc/chengdum3u8.php?rate=hd&id=6
 
-NWTV,#genre#
+📜NWTV,#genre#
 冬奥纪实,http://223.110.251.152:6610/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
 纪实人文,http://223.110.251.152:6610/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
 金鹰纪实,http://39.130.215.222:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
@@ -401,7 +401,7 @@ NewTV金牌综艺,http://39.134.198.9:6610/yst.live.scmobile.com/otvzte.scmcc.co
 漫游世界,http://125.210.152.18:9090/live/MYSJ.m3u8
 
 
-北京SITV,#genre#
+🌃北京SITV,#genre#
 上海ICS外语,http://140.207.241.3:8080/live/program/live/wypdhd/4000000/mnf.m3u8
 上海东方影视,http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 上海五星体育,http://140.207.241.3:8080/live/program/live/ssty/4000000/mnf.m3u8
@@ -758,7 +758,7 @@ CCTV中视购物,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226385/1.
 
 
 
-江苏合肥,#genre#
+👝江苏合肥,#genre#
 合肥电信爱尚
 爱上4K,http://117.71.37.15/live.aishang.ctlcdn.com/00000110240505_1/playlist.m3u8?CONTENTID=00000110240505_1
 CCTV4K,http://117.71.37.15/live.aishang.ctlcdn.com/00000110240505_1/playlist.m3u8?CONTENTID=00000110240505_1
@@ -1078,7 +1078,7 @@ CETV1,http://223.110.251.152:6610/cntv/live1/jiaoyutv/jiaoyutv
 风尚购物,http://223.110.251.152:6610/cntv/live1/fengshanggw/fengshanggw
 
 
-RTMP,#genre#
+🏫RTMP,#genre#
 CCTV1,http://39.134.198.1:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-1/index.m3u8?IAS
 CCTV1,http://39.134.198.5:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-1/index.m3u8?IAS
 CCTV1,http://39.134.198.4:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-1/index.m3u8?IAS
@@ -1537,7 +1537,7 @@ Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
 
 
 
-陕西SNTV,#genre#
+🏜陕西SNTV,#genre#
 陕西yinhe
 信号测试,http://111.20.105.60:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 信号测试,http://111.20.105.60:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -2038,7 +2038,7 @@ IPTV8+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226344/index.m3u8
 
 
 
-江浙PLTV,#genre#
+🏞️江浙PLTV,#genre#
 浙江移动PLTV 
 CCTV4K,http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
 百视通4K,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
@@ -2805,7 +2805,7 @@ NNM家庭理财,http://ott.js.chinamobile.com/PLTV/3/224/3221227011/index.m3u8
 购物,http://ott.js.chinamobile.com/PLTV/3/224/3221227572/index.m3u8
 购物,http://ott.js.chinamobile.com/PLTV/3/224/3221227765/index.m3u8
 
-GATV,#genre# 
+🇺🇳GATV,#genre# 
 BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 abc,https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 abc kids,https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
@@ -2909,7 +2909,7 @@ ABC,rtmp://59.124.75.156/sat/us102
 无信号,rtmp://59.124.75.156/sat/us281
 无信号,rtmp://59.124.75.156/sat/us282
 
-云南GITV_1,#genre#
+⛰云南GITV_1,#genre#
 美雲あい,https://www.ugbcdn.com/20201225/mEYRxQPe/index.m3u8
 橋本玲美,https://www.ugbcdn.com/20201225/HEonUPSq/index.m3u8
 豊田ゆう,https://www.ugbcdn.com/20201225/WJ4vKKiO/index.m3u8
@@ -3020,7 +3020,7 @@ Miami TV Latino,https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunkl
 Privé TV,http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/877/index.m3u8
 Visit-X TV,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 
-华数TV_1,#genre#
+🌄华数TV_1,#genre#
 偷来的未婚夫,http://youku1.dianfubang.com/20190221/t0QXLgCN/index.m3u8
 横恋母,http://youku1.dianfubang.com/20190414/PuccYxSH/index.m3u8
 我的表姐,http://youku1.dianfubang.com/20200203/n8FyMTgZ/index.m3u8
