@@ -69,7 +69,7 @@ CCTV4K,http://210.22.242.108/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
 
 
 
-🌁WSTV,#genre#
+🏭WSTV,#genre#
 北京卫视,http://223.110.251.152:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
 东方卫视,http://223.110.251.152:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
 广东卫视,http://223.110.251.152:6610/gitv/live1/G_GUANGDONG-CQ/G_GUANGDONG-CQ/

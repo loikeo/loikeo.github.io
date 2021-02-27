@@ -43,113 +43,113 @@ http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K0205.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title=“🌁WSTV”,湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title=“🏭WSTV”,湖南卫视
 http://223.110.251.152:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title=“🌁WSTV”,安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title=“🏭WSTV”,安徽卫视
 http://223.110.251.152:6610/gitv/live1/G_ANHUI-CQ/G_ANHUI-CQ/
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title=“🌁WSTV”,江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title=“🏭WSTV”,江苏卫视
 http://223.110.251.152:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title=“🌁WSTV”,北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title=“🏭WSTV”,北京卫视
 http://223.110.251.152:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title=“🌁WSTV”,浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title=“🏭WSTV”,浙江卫视
 http://223.110.251.152:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title=“🌁WSTV”,东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title=“🏭WSTV”,东方卫视
 http://223.110.251.152:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title=“🌁WSTV”,东南卫视
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title=“🏭WSTV”,东南卫视
 http://223.110.251.152:6610/cntv/live1/dongnanstv/dongnanstv
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title=“🌁WSTV”,深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title=“🏭WSTV”,深圳卫视
 http://223.110.251.152:6610/gitv/live1/G_SHENZHEN-CQ/G_SHENZHEN-CQ
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title=“🌁WSTV”,广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title=“🏭WSTV”,广东卫视
 http://223.110.251.152:6610/cntv/live1/HD-2500k-1080P-guangdongstv/HD-2500k-1080P-guangdongstv
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title=“🌁WSTV”,江西卫视
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title=“🏭WSTV”,江西卫视
 http://223.110.251.152:6610/cntv/live1/jiangxistv/jiangxistv
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title=“🌁WSTV”,天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title=“🏭WSTV”,天津卫视
 http://223.110.251.152:6610/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title=“🌁WSTV”,四川卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title=“🏭WSTV”,四川卫视
 http://223.110.251.152:6610/cntv/live1/sichuanstv/sichuanstv
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title=“🌁WSTV”,重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title=“🏭WSTV”,重庆卫视
 http://223.110.251.152:6610/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title=“🌁WSTV”,龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title=“🏭WSTV”,龙江卫视
 http://223.110.251.152:6610/gitv/live1/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title=“🌁WSTV”,湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title=“🏭WSTV”,湖北卫视
 http://223.110.251.152:6610/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title=“🌁WSTV”,山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title=“🏭WSTV”,山东卫视
 http://223.110.251.152:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title=“🌁WSTV”,辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title=“🏭WSTV”,辽宁卫视
 http://223.110.251.152:6610/gitv/live1/G_LIAONING-CQ/G_LIAONING-CQ
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title=“🌁WSTV”,广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title=“🏭WSTV”,广西卫视
 http://223.110.251.152:6610/cntv/live1/guangxistv/guangxistv
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title=“🌁WSTV”,贵州卫视
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title=“🏭WSTV”,贵州卫视
 http://223.110.251.152:6610/cntv/live1/guizhoustv/guizhoustv
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title=“🌁WSTV”,河北卫视
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title=“🏭WSTV”,河北卫视
 http://223.110.251.152:6610/cntv/live1/hebeistv/hebeistv
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title=“🌁WSTV”,河南卫视
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title=“🏭WSTV”,河南卫视
 http://223.110.251.152:6610/cntv/live1/henanstv/henanstv
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title=“🌁WSTV”,吉林卫视
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title=“🏭WSTV”,吉林卫视
 http://223.110.251.152:6610/gitv/live1/G_JILIN/G_JILIN/
-#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title=“🌁WSTV”,厦门卫视
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title=“🏭WSTV”,厦门卫视
 http://223.110.251.152:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
-#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title=“🌁WSTV”,海南卫视
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title=“🏭WSTV”,海南卫视
 http://223.110.251.152:6610/gitv/live1/LYWS/LYWS/
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title=“🌁WSTV”,甘肃卫视
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title=“🏭WSTV”,甘肃卫视
 http://223.110.251.152:6610/gitv/live1/G_GANSU/G_GANSU/
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title=“🌁WSTV”,陕西卫视
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title=“🏭WSTV”,陕西卫视
 http://223.110.251.152:6610/gitv/live1/G_SHANXI/G_SHANXI/
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title=“🌁WSTV”,宁夏卫视
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title=“🏭WSTV”,宁夏卫视
 http://223.110.251.152:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title=“🌁WSTV”,青海卫视
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title=“🏭WSTV”,青海卫视
 http://223.110.251.152:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title=“🌁WSTV”,内蒙卫视
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title=“🏭WSTV”,内蒙卫视
 http://223.110.251.152:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title=“🌁WSTV”,山西卫视
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title=“🏭WSTV”,山西卫视
 http://223.110.251.152:6610/gitv/live1/SXWS/SXWS/
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title=“🌁WSTV”,云南卫视
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title=“🏭WSTV”,云南卫视
 http://223.110.251.152:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title=“🌁WSTV”,西藏卫视
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title=“🏭WSTV”,西藏卫视
 http://223.110.251.152:6610/gitv/live1/G_XIZANG/G_XIZANG/
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title=“🌁WSTV”,新疆卫视
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title=“🏭WSTV”,新疆卫视
 http://223.110.251.152:6610/gitv/live1/G_XINJIANG/G_XINJIANG/
-#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title=“🌁WSTV”,延边卫视
+#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title=“🏭WSTV”,延边卫视
 http://223.110.251.152:6610/gitv/live1/G_YANBIAN/G_YANBIAN/
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title=“🌁WSTV”,兵团卫视
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title=“🏭WSTV”,兵团卫视
 http://223.110.251.152:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/
-#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png"  group-title=“🌁WSTV”,三沙卫视
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png"  group-title=“🏭WSTV”,三沙卫视
 rtmp://ivi.bupt.edu.cn:1935/livetv/sstv
-#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title=“🌁WSTV”,康巴卫视
+#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title=“🏭WSTV”,康巴卫视
 http://223.110.251.152:6610/gitv/live1/G_KANGBA/G_KANGBA/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/jiaoyu.png" group-title=“🌁WSTV”,教育卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/jiaoyu.png" group-title=“🏭WSTV”,教育卫视
 http://223.110.251.152:6610/gitv/live1/G_SDETV/G_SDETV/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/haixia.png"  group-title=“🌁WSTV”,海峡卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/haixia.png"  group-title=“🏭WSTV”,海峡卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226977/index.m3u8
-#EXTINF:-1 tvg-id="60"  tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/nanfang.png" group-title=“🌁WSTV”,南方卫视
+#EXTINF:-1 tvg-id="60"  tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/nanfang.png" group-title=“🏭WSTV”,南方卫视
 http://223.110.251.152:6610/gitv/live1/G_NANFANG/G_NANFANG/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/nonglin.png" group-title=“🌁WSTV”,农林卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/nonglin.png" group-title=“🏭WSTV”,农林卫视
 http://223.110.251.152:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
-#EXTINF:-1 tvg-id="1994" tvg-name=""tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/jiaotong.png" group-title=“🌁WSTV”,中国交通
+#EXTINF:-1 tvg-id="1994" tvg-name=""tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/jiaotong.png" group-title=“🏭WSTV”,中国交通
 https://tv.cctbn.com/cctbn/beijing/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/tianqi.png" group-title=“🌁WSTV”,中国天气
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/tianqi.png" group-title=“🏭WSTV”,中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/techan.png" group-title=“🌁WSTV”,中华特产
+#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/techan.png" group-title=“🏭WSTV”,中华特产
 http://play.zhtctv.cn/portal/btv.m3u8
-#EXTINF:-1 tvg-id="6597" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/food.png" group-title=“🌁WSTV”,中华美食
+#EXTINF:-1 tvg-id="6597" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/food.png" group-title=“🏭WSTV”,中华美食
 http://223.110.251.152:6610/gitv/live1/G_ZHONGHUAMS/G_ZHONGHUAMS/
-#EXTINF:-1 tvg-id="73" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title=“🌁WSTV”,教育综合
+#EXTINF:-1 tvg-id="73" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title=“🏭WSTV”,教育综合
 http://223.110.251.152:6610/gitv/live1/G_CETV-1/G_CETV-1/
-#EXTINF:-1 tvg-id="74" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title=“🌁WSTV”,继续教育
+#EXTINF:-1 tvg-id="74" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title=“🏭WSTV”,继续教育
 http://223.110.251.152:6610/gitv/live1/G_CETV-2/G_CETV-2/
-#EXTINF:-1 tvg-id="75" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title=“🌁WSTV”,人文教育
+#EXTINF:-1 tvg-id="75" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title=“🏭WSTV”,人文教育
 http://223.110.251.152:6610/gitv/live1/G_CETV-3/G_CETV-3/
-#EXTINF:-1 tvg-id="76" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title=“🌁WSTV”,智慧教育
+#EXTINF:-1 tvg-id="76" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title=“🏭WSTV”,智慧教育
 http://223.110.251.152:6610/gitv/live1/G_CETV-4/G_CETV-4/
-#EXTINF:-1 tvg-id="6581" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg"  group-title=“🌁WSTV”,早期教育
+#EXTINF:-1 tvg-id="6581" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg"  group-title=“🏭WSTV”,早期教育
 http://39.130.215.222:6610/gitv_live/G_CETV-ZQJY/G_CETV-ZQJY.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wx3.sinaimg.cn/large/796c550dly1gb5qq43e5eg20m80dwb29.gif" group-title=“🌁WSTV”,CECTV1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wx3.sinaimg.cn/large/796c550dly1gb5qq43e5eg20m80dwb29.gif" group-title=“🏭WSTV”,CECTV1
 http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wx2.sinaimg.cn/large/796c550dly1gb5qq5lsiog20m80dwb29.gif" group-title=“🌁WSTV”,CECTV2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wx2.sinaimg.cn/large/796c550dly1gb5qq5lsiog20m80dwb29.gif" group-title=“🏭WSTV”,CECTV2
 http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wx4.sinaimg.cn/large/796c550dly1gb5qq63ci8g20m80dwb29.gif" group-title=“🌁WSTV”,CECTV3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wx4.sinaimg.cn/large/796c550dly1gb5qq63ci8g20m80dwb29.gif" group-title=“🏭WSTV”,CECTV3
 http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wx3.sinaimg.cn/large/796c550dly1gb5qq4qgl3g20m80dwb29.gif" group-title=“🌁WSTV”,CECTV4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wx3.sinaimg.cn/large/796c550dly1gb5qq4qgl3g20m80dwb29.gif" group-title=“🏭WSTV”,CECTV4
 http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 
