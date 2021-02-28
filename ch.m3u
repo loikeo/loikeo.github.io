@@ -149,7 +149,7 @@ http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wx4.sinaimg.cn/large/796c550dly1gb5qq63ci8g20m80dwb29.gif" group-title=“🏭WSTV”,CECTV3
 http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wx3.sinaimg.cn/large/796c550dly1gb5qq4qgl3g20m80dwb29.gif" group-title=“🏭WSTV”,CECTV4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wx3.sinaimg.cn/large/796c550dly1gb5qq4qgl3g20m80dwb29.gif" group-title=“🏭3WSTV”,CECTV4
 http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 
@@ -410,6 +410,14 @@ http://223.110.251.152:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/
 http://223.110.251.152:6610/gitv/live1/G_LANQIU/G_LANQIU
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png"  group-title=“🌃CSTV”,金鹰纪实
 http://39.130.215.222:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/jincheng1.png" group-title="🌃CSTV",公共频道
+http://live.jinnews.com.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/jincheng2.png" group-title="🌃CSTV",新闻综合
+http://live.jinnews.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/yangcheng.png" group-title="🌃CSTV",阳城电视
+https://hwfee.yunshicloud.com:443/gazuo8/bz5z68.m3u8
+
+
 
 
 

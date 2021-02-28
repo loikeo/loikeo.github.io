@@ -189,10 +189,11 @@ CCTV4K,http://210.22.242.108/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
 中国天气,http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
 中华特产,http://play.zhtctv.cn/portal/btv.m3u8
 中华美食,http://223.110.254.212:6610/gitv/live1/G_ZHONGHUAMS/G_ZHONGHUAMS/
-公共频道,http://live1.jcbctv.com:1935/live/XWZH/1000K/tzwj_video.m3u8
-公共频道,http://live.jinnews.com.cn/xwzh/sd/live.m3u8
-新闻综合,http://live1.jcbctv.com:1935/live/GGPD/1000K/tzwj_video.m3u8
-新闻综合,http://live.jinnews.com.cn/ggpd/sd/live.m3u8
+新闻综合,http://live1.jcbctv.com:1935/live/XWZH/1000K/tzwj_video.m3u8
+新闻综合,http://live.jinnews.com.cn/xwzh/sd/live.m3u8
+公共频道,http://live1.jcbctv.com:1935/live/GGPD/1000K/tzwj_video.m3u8
+公共频道,http://live.jinnews.com.cn/ggpd/sd/live.m3u8
+阳城电视,https://hwfee.yunshicloud.com:443/gazuo8/bz5z68.m3u8
 教育卫视,http://120.221.5.166:8089/ucdn.sd.chinamobile.com/2/00/SNM/CHANNEL00000331/index.m3u8
 教育卫视,http://120.221.5.102:8089/PLTV/88888888/224/3221226049/index.m3u8
 教育卫视,http://223.110.243.166/ott.js.chinamobile.com/PLTV/3/224/3221227580/index.m3u8
