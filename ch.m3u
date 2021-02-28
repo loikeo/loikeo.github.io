@@ -213,17 +213,17 @@ http://67.230.188.214/17/sc/chengdum3u8.php?rate=hd&id=6
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="🏟NWTV",凤凰中文
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="🏟NWTV",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="🏚NWTV",凤凰资讯
 http://117.169.120.98:8080/ysten-businessmobile/live/fhzixun/dujuejiami.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="🏟NWTV",凤凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="🏰NWTV",凤凰香港
 http://223.110.245.136/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="🏟NWTV",香港卫视
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="🏯NWTV",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/mstv.jpg" group-title="🏟NWTV",澳门卫视
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/mstv.jpg" group-title="🏛NWTV",澳门卫视
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/mastv.jpg" group-title="🏟NWTV",澳亚卫视
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/mastv.jpg" group-title="🎥NWTV",澳亚卫视
 https://live.mastvnet.com/4rlff1m/1024/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lotustv.jpg" group-title="🏟NWTV",莲花卫视
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lotustv.jpg" group-title="📷📀💿💾NWTV",莲花卫视
 http://live-hls.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="🏟NWTV",凤凰电影台
 rtmp://58.200.131.2:1935/livetv/fhdy
