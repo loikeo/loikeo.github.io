@@ -57,6 +57,7 @@ CGTN,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226443/1.m3u8
 CGTND,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226403/1.m3u8
 CGTND,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225866/1.m3u8
 CGTN,http://39.130.215.222:6410/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
+CGTN,http://39.130.215.222:6410/gitv_live/G_CGTN-HD/G_CGTN-HD.m3u8
 CGTND,http://39.130.215.222:6410/gitv_live/G_CGTVJL/G_CGTVJL.m3u8
 CGTND,http://39.130.215.222:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
 CGTN,http://live.cgtn.com/1000/prog_index.m3u8
@@ -291,7 +292,7 @@ SiTV动漫秀场,http://140.207.241.3:8080/live/program/live/dmxchd/4000000/mnf.
 云南少儿,http://yntvpullhls.ynradio.com/live/yunnanshaoer/playlist.m3u8
 成都少儿,http://67.230.188.214/17/sc/chengdum3u8.php?rate=hd&id=6
 
-📜NWTV,#genre#
+💿NWTV,#genre#
 冬奥纪实,http://223.110.251.152:6610/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
 纪实人文,http://223.110.251.152:6610/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
 金鹰纪实,http://39.130.215.222:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
