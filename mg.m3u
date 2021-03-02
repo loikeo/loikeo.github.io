@@ -14,7 +14,7 @@ http://183.131.128.233/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv6hd/3000/index
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="🇨🇳CCTV",CCTV7
 http://183.131.128.233/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="🇨🇳CCTV",CCTV8
-http://183.131.128.233/mgsp.live.miguvideo.com:8088/migu/kailu/cctv8hd265/55/20200407/index.m3u8?&encrypt=1
+http://183.131.128.233/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv8hd/3000/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="🇨🇳CCTV",CCTV9
 http://183.131.128.233/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv9hd/57/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="🇨🇳CCTV",CCTV10
