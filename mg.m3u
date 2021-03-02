@@ -79,6 +79,8 @@ http://183.131.128.233/mgsp.live.miguvideo.com:8088/wd_r3/cnr/faxianzhilv/2000/i
 http://183.131.128.233/mgsp.live.miguvideo.com:8088/wd_r3/cnr/laogushi/2000/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="🇨🇳CCTV",国学频道
 http://183.131.128.233/mgsp.live.miguvideo.com:8088/wd_r4/ocn/shuhua/600/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="🇨🇳CCTV",书画频道
+http://36.112.79.186:8235/hls/hd-live.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="🇨🇳CCTV",CHC动作电影
 http://183.131.128.233/mgsp.live.miguvideo.com:8088/wd_r1/2018/gesee/chcdzdy/600/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="🇨🇳CCTV",CHC家庭影院
