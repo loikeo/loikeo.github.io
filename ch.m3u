@@ -420,49 +420,193 @@ https://hwfee.yunshicloud.com:443/gazuo8/bz5z68.m3u8
 
 
 
+#EXTINF:-1 group-title="⛵️GATV""Religious" tvg-logo="https://i.imgur.com/GVZuKc7.png",3ABN
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/HQs/chunklist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Religious" tvg-logo="https://i.imgur.com/zI6jr9L.png",3ABN Dare to Dream
+https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/HQs/chunklist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Religious" tvg-logo="https://i.imgur.com/vhb8zvB.png",3ABN International
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/HQs/chunklist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Religious" tvg-logo="https://i.imgur.com/eOvzf3d.png",3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Religious" tvg-logo="https://i.imgur.com/XzQ3Cpg.png",3ABN Praise Him Music Channel
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/HQs/chunklist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Religious" tvg-logo="https://i.imgur.com/KiMtKUL.png",3ABN Proclaim!
+https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/HQs/chunklist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png",7News Boston (WHDH) (540p)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local",ABC 9 Chattanooga TN (WTVC) (720p)
+https://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""News" tvg-logo="https://i.imgur.com/V8eTp2V.png",ABC News Digital 7 (720p)
+https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""News" tvg-logo="https://i.imgur.com/GRl09vk.jpg",Al Hurra (486p)
+https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV"  tvg-logo="https://i.ytimg.com/vi/JueWq1SOiwY/maxresdefault.jpg",Beauty IQ (720p)
+https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Sport" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png",Bek Sports East (720p)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Sport" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png",Bek Sports West (720p)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/BlazeTVDec2018.png",BlazeTV (720p)
+https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Business" tvg-logo="https://i.imgur.com/XCbSfMb.jpg",Bloomberg TV Asia (720p)
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Business" tvg-logo="https://i.imgur.com/XCbSfMb.jpg",Bloomberg TV Europe (720p)
+https://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Business" tvg-logo="https://i.imgur.com/UuO7vxr.jpg",Bloomberg TV Europe (720p)
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Business" tvg-logo="https://i.imgur.com/XCbSfMb.jpg",Bloomberg TV US (576p)
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Business" tvg-logo="https://i.imgur.com/XCbSfMb.jpg",Bloomberg TV US (720p)
+https://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Business" tvg-logo="https://i.imgur.com/XCbSfMb.jpg",Bloomberg TV US (720p)
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Business" tvg-logo="https://i.imgur.com/XCbSfMb.jpg",Bloomberg TV US (720p)
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Business" tvg-logo="https://i.imgur.com/4UIqtXt.jpg",Bloomberg TV US Live Event (720p)
+https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Business" tvg-logo="https://1.bp.blogspot.com/-PbJbgwulmgg/XlcvWvE1krI/AAAAAAAArqk/GybN3PTg-tAskuSoJQe3hfT2CvPXdA1WwCLcBGAsYHQ/s320/Bloomberg%2BTelevision.jpg",Bloomberg TV+ US (1080p)
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 group-title="⛵️GATV"  tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10161_h3_aa.png",C-Span (108p)
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV"  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cspan2.png",C-Span 2 (108p)
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV"  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cspan3.png",C-Span 3 (108p)
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Religious" tvg-logo="https://i.imgur.com/RI9GbLX.jpg",Catholic TV (720p)
+https://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""News" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png",CBN News (1080p)
+https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""News" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png",CBN News (1080p)
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""News" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png",CBN News (1080p)
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""News" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png",CBN News (1080p)
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local" tvg-logo="https://i.imgur.com/Ekt1an0.png",CBS 9 Washington DC (WUSA-HD) (720p)
+https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""News" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/04/01/727e357a-a126-4138-a2c5-4d3222669d57/thumbnail/1200x630/795a64db6b16dd5a299672df438ad0b4/cbsn2-logo-1920x1080.jpg",CBS News
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:-1 group-title="⛵️GATV""News" tvg-logo="https://i.imgur.com/HbOrvOn.jpg",CBSN (360p)
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""News" tvg-logo="https://i.imgur.com/HbOrvOn.jpg",CBSN (720p)
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV"  tvg-logo="https://www.charlottecountyfl.gov/cctv/PublishingImages/CC-TV-color-logo.jpg",CC-TV
+https://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cerritos-tv3.jpg",Cerritos TV3
+https://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Business" tvg-logo="https://i.imgur.com/3yumcV3.jpg",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local" tvg-logo="https://i.imgur.com/UxEzPeX.png",Connecticut Network (720p)
+http://video.ct-n.com/live/ctnstream/playlist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local" tvg-logo="https://www.csudh.edu/Assets/templates/header/CSUDH-RGB-Logo-Burgundy-Background.png",CSUDH TV (Dominguez Hills) (720p)
+http://dhtv5.csudh.edu:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="⛵️GATV"  tvg-logo="https://i.imgur.com/q66RMSc.png",Denver 8 TV
+https://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Religious" tvg-logo="https://i.imgur.com/FppLahc.jpg",Dr. Gene Scott (480p)
+https://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Sport" tvg-logo="https://i.imgur.com/Mg7BTDP.jpg",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Sport" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54",Edge Sports (1080p)
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Religious" tvg-logo="https://i.imgur.com/fGdHIGy.png",ESNE TV (1080p)
+https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""News" tvg-logo="https://i.imgur.com/Z5SATrd.png",Fox News Radio (192p)
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Sport",FOX Sport HD 1 (720p)
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV"  tvg-logo="https://www.god.tv/wp-content/themes/godtv/images/god-bug-trans-white_1.png",GOD TV (720p)
+https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local" tvg-logo="https://i.imgur.com/wHb9BLd.png",Greensboro TV
+https://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local" tvg-logo="https://i.imgur.com/3czIO1P.png",Hartford - WVIT 30 News (720p)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local" tvg-logo="https://i.imgur.com/lAtiWkI.png",Indianapolis - CBS 4 News (720p)
+https://wttv-lh.akamaihd.net/i/WTTVBreaking_1@333494/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""News" tvg-logo="https://i.imgur.com/VEd3y4O.png",InfoWars (720p)
+https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Religious" tvg-logo="https://i.imgur.com/CQnD7yU.png",Inspiration TV (360p)
+https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local" tvg-logo="https://i.imgur.com/gTmNrk6.png",Ion 8 Christiansted VI (WSVI-TV) (300p)
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV"  tvg-logo="https://i.imgur.com/pmqYFk9.jpg",ISN (1080p)
+https://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local" tvg-logo="https://i.imgur.com/REqqKQ9.png",Lake Havasu City 4
+https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local" tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png",Leominster TV Educational (1080p)
+http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local" tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png",Leominster TV Government (1080p)
+http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local" tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png",Leominster TV Public (1080p)
+http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local",Lex TV (720p)
+https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8
+#EXTINF:-1 group-title="⛵️GATV" ,Love Nature (1080p)
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Religious" tvg-logo="https://i.imgur.com/YnOZtNm.png",LoveWorld USA (1080p)
+https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Entertainment" tvg-logo="https://i.imgur.com/QpdHuGo.png",MTV Norge (720p)
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local" tvg-logo="https://i.imgur.com/d4QN3fB.png",NBC Charlotte NC (WCNC-TV) (720p)
+https://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""News" tvg-logo="https://i.imgur.com/LUhiYfG.jpg",NBC News Now (1080p)
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local" tvg-logo="https://i.imgur.com/jrWg5qE.jpg",NBC San Jose CA (KNTV) (416p)
+https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local" tvg-logo="https://i.imgur.com/jrWg5qE.jpg",NBC San Jose CA (KNTV) (240p)
+https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV"  tvg-logo="https://i.imgur.com/JSCsJc5.png",NBCLX
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
+#EXTINF:-1 group-title="⛵️GATV""News" tvg-logo="https://image.xumo.com/v1/channels/channel/9999194/300x300.png?type=color_onBlack",Newsmax (1080p)
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local" tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png",Olelo 54
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Local" tvg-logo="http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png",Olelo 55
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+#EXTINF:-1 group-title="⛵️GATV"  tvg-logo="https://i.imgur.com/EhISpCd.png",PTL TV Network (720p)
+https://morningside-lh.akamaihd.net/i/jblive_1@303354/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Shop" tvg-logo="https://sc.dish.com/shared/images/station-logos/qvc.png",QVC (720p)
+https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Shop" tvg-logo="https://sc.dish.com/shared/images/station-logos/qvc2.png",QVC 2 (720p)
+https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Shop" tvg-logo="https://sc.dish.com/shared/images/station-logos/qvc3.png",QVC 3 (720p)
+https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV"  tvg-logo="https://i.imgur.com/B6C0FyM.png",Radio y Televisión Martí (480p)
+https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Religious" tvg-logo="http://sonlifetv.com/images/logo.png",SBN
+https://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch51/ch51.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Religious",SBN
+https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Religious",SBN Global
+https://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV"  tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg",Stadium (720p)
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV"  tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB9l6rHPU5feWQg5I7xyag5bc9-fS-suqi5sg=s900-mo-c-c0xffffffff-rj-k-no",Tastemade (1080p)
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Religious" tvg-logo="https://i.imgur.com/TV29g3L.png",TCT
+https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/playlist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Kids",TCT Kids
+https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
+#EXTINF:-1 group-title="⛵️GATV" ,Telemundo 44 (432p)
+https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV"  tvg-logo="https://i.imgur.com/2XKjSpy.gif",Tempe 11
+https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
+#EXTINF:-1 group-title="⛵️GATV"  tvg-logo="https://thefloridachannel.org/wp-content/uploads/logo-primary-1.png",The Florida Channel (480p)
+https://wowzaprod4-i.akamaihd.net/hls/live/254057/6380fec3/playlist.m3u8
+#EXTINF:-1 group-title="⛵️GATV"  tvg-logo="https://i.imgur.com/PnBXXw4.png",The Outdoor Cooking Channel (480p)
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Shop" tvg-logo="http://cdn.iphoneincanada.ca/wp-content/uploads/2015/07/the-shopping-channel-logo.jpg",The Shopping Channel (720p)
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""Weather" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/weatherchannel.png",The Weather Channel (720p)
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV""News" tvg-logo="https://i.imgur.com/lPyJhBN.png",UN Web TV (540p)
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
+#EXTINF:-1 group-title="⛵️GATV"  tvg-logo="https://i.imgur.com/2IOP6LI.jpg",WSJ (1080p)
+https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/abc.png" group-title="⛵️GATV",abc
-https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/au/ABCKids.au.png" group-title="⛵️GATV",abc kids
-https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/au/ABCME.au.png" group-title="⛵️GATV",abc me
-https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/au/ABCComedy.au.png" group-title="⛵️GATV",abc comedy
-https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/abcnews.png" group-title="⛵️GATV",abc news
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/pl/BabyFirstTV.pl.png" group-title="⛵️GATV",baby first
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/us/Newsmax.us.png" group-title="⛵️GATV",newsmax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/redbull.png" group-title="⛵️GATV",redbull
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.mjh.nz/au/images/tv.snowy-mountains.png" group-title="⛵️GATV",smtv
-http://c.mjh.nz/snowy-mountains/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/au/RacingCom.au.png" group-title="⛵️GATV",racing
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cruise.png" group-title="⛵️GATV",cruise
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://static.iptv-epg.com/au/EXPO.au.png" group-title="⛵️GATV",expo
-http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/au/FoxSportsNews.au.png" group-title="⛵️GATV",fox sports news
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/au/Action.au.png" group-title="⛵️GATV",auschannel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="⛵️GATV",sky news extra1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="⛵️GATV",sky news extra2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="⛵️GATV",sky news extra3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="⛵️GATV",olympic1
-https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="⛵️GATV",olympic2
-https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/ru/WorldFashionChannel.ru.png" group-title="⛵️GATV",wfc
-http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/un.png" group-title="⛵️GATV",untv
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="👗PBTV",CCTV1
