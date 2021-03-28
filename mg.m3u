@@ -86,6 +86,7 @@ http://223.113.54.41/mgsp.live.miguvideo.com:8088/wd_r1/2018/gesee/chcdzdy/600/i
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="🇨🇳CCTV",CHC家庭影院
 http://223.113.54.41/mgsp.live.miguvideo.com:8088/wd_r3/cnr/chcjtyy/3000/index.m3u8?&encrypt=1
 
+
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="🌃WSTV",湖南卫视
 http://223.113.54.41/mgsp.live.miguvideo.com:8088/wd-hunanhd-2500/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="🌃WSTV",东方卫视
@@ -196,3 +197,36 @@ http://223.113.54.41/mgsp.live.miguvideo.com:8088/ws_w/2018/xdkt/xdkt711/1000/in
 http://223.113.54.41/mgsp.live.miguvideo.com:8088/wd_r2/jstv/ymkt/600/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="🌃WSTV",嘉佳卡通
 http://223.113.54.41/mgsp.live.miguvideo.com:8088/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?&encrypt=1
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cibn微电影.png" group-title="💿CIBN",CIBN微电影
+http://223.113.54.41/mgsp.live.miguvideo.com:8088/wd_r4/peoplecn/cibnweimovie/600/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cibn流金岁月.png" group-title="💿CIBN",CIBN流金岁月
+http://223.113.54.41/mgsp.live.miguvideo.com:8088/wd_r4/peoplecn/cibnshoucang/600/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cibn炫佳动漫.png" group-title="💿CIBN",CIBN炫佳动漫
+http://223.113.54.41/mgsp.live.miguvideo.com:8088/wd_r3/2018/peoplecn/cibndmpd/1000/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cibn真人秀.png" group-title="💿CIBN",CIBN真人秀
+http://223.113.54.41/mgsp.live.miguvideo.com:8088/wd_r3/peoplecn/cibnzhenrenxiu/600/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cibn纪录片.png" group-title="💿CIBN",CIBN纪录片
+http://223.113.54.41/mgsp.live.miguvideo.com:8088/wd_r3/2018/peoplecn/cibnjlpd/1000/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cibn经典剧场.png" group-title="💿CIBN",CIBN经典剧场
+http://223.113.54.41/mgsp.live.miguvideo.com:8088/wd_r3/peoplecn/cibnjingdianjuchang/600/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cibn综合.png" group-title="💿CIBN",CIBN综和
+http://223.113.54.41/mgsp.live.miguvideo.com:8088/wd_r4/peoplecn/xinqidian/600/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cibn风尚运动.png" group-title="💿CIBN",CIBN风尚运动
+http://223.113.54.41/mgsp.live.miguvideo.com:8088/migu/kailu/cibnfsyd/57/20191029/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cibn骄阳剧场.png.png" group-title="💿CIBN",CIBN骄阳剧场
+http://223.113.54.41/mgsp.live.miguvideo.com:8088/ws_v/2018/cibnjdjc/cibnjdjc711/1000/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cibn古装剧场.png" group-title="💿CIBN",CIBN古装剧场
+http://223.113.54.41/mgsp.live.miguvideo.com:8088/wd_r3/peoplecn/cibnhaolaiwu/600/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cibn朵丫乐园.png" group-title="💿CIBN",CIBN朵丫乐园
+http://223.113.54.41/mgsp.live.miguvideo.com:8088/wd_r4/peoplecn/cibnchanwenhua/600/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cibn时尚生活.png" group-title="💿CIBN",CIBN时尚生活
+http://223.113.54.41/hlsmgsplive.miguvideo.com:8080/wd_r3/peoplecn/cibndongzuoyuanxian/600/index.m3u8?&encrypt=1
+
+
+
+
+
+
