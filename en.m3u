@@ -17,6 +17,10 @@ http://kidoodletv-kdtv-3.roku.wurl.com/manifest/playlist.m3u8
 https://kidoodletv-kdtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Kidoodle TV" tvg-logo="https://i.imgur.com/tjoAWyO.png" group-title="Kids",Kidoodle  uk
 https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mygoodnewstv.com/site_data/850/themes/gntv_2.9.5/assets/images/GNTVLarge.png" group-title="Kids",GNTV NEWS TV
+https://stream.eleden.com/livegntv/ngrp:livegntv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mygoodnewstv.com/site_data/850/themes/gntv_2.9.5/assets/images/GNTVLarge.png" group-title="Kids",GNTV Kids Channel
+https://stream.eleden.com/livegntvkids/ngrp:livegntvkids_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/abcnews.png" group-title="Politics",abc news
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Newsmax.us.png" group-title="Politics",newsmax
