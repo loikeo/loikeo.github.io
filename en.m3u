@@ -57,6 +57,16 @@ http://stream.pivotalelements.com/nactv/stream.m3u8
 https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-WCGTV.png?raw=true" group-title="Politics",WCGTV (Brandon(
 https://wowzastream.westmancom.com/wcgtvlive/highstream.sdp/master.m3u8
+#EXTINF:-1 tvg-id="717" tvg-name="FoxNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxNews.png" group-title="News",fox news
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="6023" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="News",cnn news
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="News",bbc world news
+http://ott-cdn.ucom.am/s24/04.m3u8
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="News",bbc news
+http://84.22.33.214/bbc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cheddar.jpg" group-title="News",cheddar news
+http://live.chdrstatic.com/cbn/primary/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HbOrvOn.jpg" group-title="News",CBSN (360p)
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" group-title="News",Global News Canada
