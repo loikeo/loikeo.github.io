@@ -35,9 +35,9 @@ http://223.110.251.152:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="🇨🇳CCTV",CCTV17
 http://223.110.251.152:6610/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="🇨🇳CCTV",CGTN
-http://39.130.215.222:6410/gitv_live/G_CGTN-HD/G_CGTN-HD.m3u8
+http://39.130.202.77:6610/gitv_live/G_CGTN-HD/G_CGTN-HD.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNdoc" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="🇨🇳CCTV",CGTND
-http://39.130.215.222:6610/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
+http://39.130.202.77:6610/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="🇨🇳CCTV",CCTV4K
 http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K0205.stream/playlist.m3u8
 
@@ -153,63 +153,62 @@ http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="⚽SETV",CCTV14
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV14
 http://223.110.251.152:6610/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
 EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="⚽SETV",上海哈哈炫动
 http://140.207.241.3:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="⚽SETV",SiTV动漫秀场
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg",SiTV动漫秀场
 http://140.207.241.3:8080/live/program/live/dmxchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="⚽SETV",北京卡酷少儿
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png",北京卡酷少儿
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="⚽SETV",江苏优漫卡通
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",江苏优漫卡通
 http://223.110.251.152:6610/cntv/live1/youmankaton/youmankaton
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="⚽SETV",广东嘉佳卡通
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png",广东嘉佳卡通
 http://223.110.251.152:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="⚽SETV",湖南金鹰卡通
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png",湖南金鹰卡通
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV9/FJTV9.jpg" group-title="⚽SETV",福建少儿
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV9/FJTV9.jpg",福建少儿
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226960/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HEBEI5/HEBEI5.jpg" group-title="⚽SETV",河北少儿科教
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HEBEI5/HEBEI5.jpg",河北少儿科教
 http://live6.plus.hebtv.com/sekjx/hd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XJTV12/XJTV12.jpg" group-title="⚽SETV",新疆少儿
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XJTV12/XJTV12.jpg",新疆少儿
 http://livehyw5.chinamcache.com/hyw/zb12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HLJTV7/HLJTV7.jpg" group-title="⚽SETV",黑龙江少儿
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HLJTV7/HLJTV7.jpg",黑龙江少儿
 http://stream3.hljtv.com/hljse2/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NANFANG5/NANFANG5.jpg" group-title="⚽SETV",广东少儿
-http://player.ioioz.com/1786/gd/gdtvm3u8.php?id=gdse
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZJTV8/ZJTV8.jpg" group-title="⚽SETV",浙江少儿
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZJTV8/ZJTV8.jpg",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-id="1431" tvg-name="山东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png" group-title="⚽SETV",山东少儿
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png",山东少儿
 http://livealone302.iqilu.com/iqilu/sepd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NBTV5/NBTV5.jpg" group-title="⚽SETV",宁波少儿
-http://player.ioioz.com/1786/zj/ningbom3u8.php?id=ningbo5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HAINANTV4/HAINANTV4.jpg" group-title="⚽SETV",海南少儿
-http://player.ioioz.com/1786/hainan/hainanm3u8.php?tv=hainan&id=9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JNTV7/JNTV7.jpg" group-title="⚽SETV",济南少儿
-http://player.ioioz.com/1786/hoge/hogechm3u8.php?tv=jinan&id=11
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NMGTV6/NMGTV6.jpg" group-title="⚽SETV",内蒙古少儿
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NMGTV6/NMGTV6.jpg",内蒙古少儿
 http://live5.m2oplus.nmtv.cn/4/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CCQTV10/CCQTV10.jpg" group-title="⚽SETV",重庆少儿
-http://219.153.252.50/PLTV/88888888/224/3221225625/chunklist.m3u8
-#EXTINF:-1 tvg-id="6592" tvg-name="新科动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVxinke.png" group-title="⚽SETV",新科动漫
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVxinke.png",新科动漫
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FZTV-BABY/FZTV-BABY.jpg" group-title="⚽SETV",福州少儿
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FZTV-BABY/FZTV-BABY.jpg",福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GSTV3/GSTV3.jpg" group-title="⚽SETV",甘肃少儿
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GSTV3/GSTV3.jpg",甘肃少儿
 http://stream.gstv.com.cn/sepd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SZTV7/SZTV7.jpg" group-title="⚽SETV",深圳少儿
-http://player.ioioz.com/1786/gd/szm3u8.php?id=7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN6/DALIAN6.jpg" group-title="⚽SETV",大连少儿
-http://player.ioioz.com/1786/ln/dalianm3u8.php?id=6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV6/JXTV6.jpg" group-title="⚽SETV",江西少儿
-http://player.ioioz.com/1786/jx/jiangxim3u8.php?id=jxtv6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NJTV7/NJTV7.jpg" group-title="⚽SETV",南京少儿
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NJTV7/NJTV7.jpg",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YNTV8/YNTV8.jpg" group-title="⚽SETV",云南少儿
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YNTV8/YNTV8.jpg",云南少儿
 http://yntvpullhls.ynradio.com/live/yunnanshaoer/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CDTV-6/CDTV-6.jpg" group-title="⚽SETV",成都少儿
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CDTV-6/CDTV-6.jpg",成都少儿
 http://67.230.188.214/17/sc/chengdum3u8.php?rate=hd&id=6
-
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NANFANG5/NANFANG5.jpg",广东少儿
+http://player.ioioz.com/1237/gd/gdtvm3u8.php?id=gdse
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NBTV5/NBTV5.jpg",宁波少儿
+http://player.ioioz.com/1237/zj/ningbom3u8.php?id=ningbo5
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HAINANTV4/HAINANTV4.jpg",海南少儿
+http://player.ioioz.com/1237/hainan/hainanm3u8.php?tv=hainan&id=9
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JNTV7/JNTV7.jpg",济南少儿
+http://player.ioioz.com/1237/hoge/hogechm3u8.php?tv=jinan&id=11
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SZTV7/SZTV7.jpg",深圳少儿
+http://player.ioioz.com/1237/gd/szm3u8.php?id=7
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN6/DALIAN6.jpg",大连少儿
+http://player.ioioz.com/1237/ln/dalianm3u8.php?id=6
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV6/JXTV6.jpg",江西少儿
+http://player.ioioz.com/1237/jx/jiangxim3u8.php?id=jxtv6
+#EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CCQTV10/CCQTV10.jpg",重庆少儿
+http://219.153.252.50/PLTV/88888888/224/3221225625/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="💿NWTV",凤凰中文
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
@@ -238,31 +237,31 @@ rtmp://58.200.131.2:1935/livetv/discovery
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="💿NWTV",国家地理
 rtmp://58.200.131.2:1935/livetv/natlgeo
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/qsjilu.png" group-title="💿NWTV",求索记录
-http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/qskexue.png" group-title="💿NWTV",求索科学
-http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/qsdongwu.png" group-title="💿NWTV",求索动物
-http://117.148.187.85/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/qsshenghuo.png" group-title="💿NWTV",求索生活
-http://117.148.187.105/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6650" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg" group-title="💿NWTV",欧美影院
-http://39.134.176.151/PLTV/88888888/224/3221226176/index.m3u8
+http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/TSJS.jpg" group-title="💿NWTV",探索纪录
-http://39.134.176.151/PLTV/88888888/224/3221226179/index.m3u8
+http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6638" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSJPJC.jpg" group-title="💿NWTV",精品剧场
-http://39.134.176.160/PLTV/88888888/224/3221226181/index.m3u8
+http://39.134.176.160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/HSYZYY.jpg" group-title="💿NWTV",亚洲影院
-http://117.148.187.70/PLTV/88888888/224/3221226245/index.m3u8
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wx4.sinaimg.cn/large/796c550dly1gazh6wep5hj20au08cmxv.jpg"  group-title="💿NWTV",漫游世界
-http://112.17.40.147/PLTV/88888888/224/3221226360/index.m3u8
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/HSGQJX.jpg" group-title="💿NWTV",高清娱乐
-http://117.148.187.46/PLTV/88888888/224/3221226479/index.m3u8
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HSDZJJ/HSDZJJ.jpg" group-title="💿NWTV",电子竞技
-http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/01.m3u8?fmt=ts2hls
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/FSYY.jpg" group-title="💿NWTV",风尚音乐
-http://39.134.176.154/PLTV/88888888/224/3221226120/index.m3u8
+http://39.134.176.154/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6639" tvg-name="少儿动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSSEDM.jpg" group-title="💿NWTV",少儿动漫
-http://39.134.176.151/PLTV/88888888/224/3221226178/index.m3u8
+http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="💿NWTV",黑莓电影
 http://223.110.251.152:6610/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-191215202209426.jpg" group-title="💿NWTV",黑莓动画
@@ -736,6 +735,4 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b
 http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/877/index.m3u8
 #EXTINF:-1 group-title="👗PBTV" tvg-logo="http://adultiptv.net/lists/logo.png",Visit-X TV
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-
-
 
