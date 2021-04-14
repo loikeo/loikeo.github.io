@@ -38,9 +38,8 @@ http://223.110.251.152:6610/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv
 http://39.130.202.77:6610/gitv_live/G_CGTN-HD/G_CGTN-HD.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNdoc" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="🇨🇳CCTV",CGTND
 http://39.130.202.77:6610/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="🇨🇳CCTV",CCTV4K
-http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K0205.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="GZTV4K" tvg-logo="http://pix1.tvzhe.com/images/logo/tvstation/GZTV/GZTV.gif" group-title="🇨🇳CCTV",GZTV4K
+http://player.ioioz.com/1237/gd/gztvm3u8.php?id=gzngds
 
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="🏭WSTV",湖南卫视
