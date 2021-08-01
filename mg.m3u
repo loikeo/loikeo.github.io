@@ -30,7 +30,7 @@ http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/ocn/cctv14hd/3000/index.m
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="🇨🇳CCTV",CCTV15
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="🇨🇳CCTV",CCTV5+
-http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=1
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="🇨🇳CCTV",CCTV17
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv17hd/57/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CCTVEUROPE/CCTVEUROPE.jpg" group-title="🇨🇳CCTV",CCTV4欧洲
@@ -77,6 +77,8 @@ http://39.134.216.5/mgsp.live.miguvideo.com:8088/ws_v/2018/dszn/dszn711/1000/ind
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r3/cnr/faxianzhilv/2000/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="🇨🇳CCTV",CCTV老故事
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r3/cnr/laogushi/2000/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="中学生" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/zhongxuesheng.png" group-title="🇨🇳CCTV",CCTV中学生
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20210415/cctvzhongxuesheng/51/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="🇨🇳CCTV",国学频道
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r4/ocn/shuhua/600/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="🇨🇳CCTV",书画频道
