@@ -39,7 +39,7 @@ http://39.130.202.77:6610/gitv_live/G_CGTN-HD/G_CGTN-HD.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNdoc" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="🇨🇳CCTV",CGTND
 http://39.130.202.77:6610/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GZTV4K" tvg-logo="http://pix1.tvzhe.com/images/logo/tvstation/GZTV/GZTV.gif" group-title="🇨🇳CCTV",GZTV4K
-http://player.ioioz.com/1237/gd/gztvm3u8.php?id=gzngds
+http://player.ioioz.com/1369/gd/gztvm3u8.php?id=gzngds
 
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="🏭WSTV",湖南卫视
@@ -193,19 +193,19 @@ http://yntvpullhls.ynradio.com/live/yunnanshaoer/playlist.m3u8
 #EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CDTV-6/CDTV-6.jpg",成都少儿
 http://67.230.188.214/17/sc/chengdum3u8.php?rate=hd&id=6
 #EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NANFANG5/NANFANG5.jpg",广东少儿
-http://player.ioioz.com/1237/gd/gdtvm3u8.php?id=gdse
+http://player.ioioz.com/1369/gd/gdtvm3u8.php?id=gdse
 #EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NBTV5/NBTV5.jpg",宁波少儿
-http://player.ioioz.com/1237/zj/ningbom3u8.php?id=ningbo5
+http://player.ioioz.com/1369/zj/ningbom3u8.php?id=ningbo5
 #EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HAINANTV4/HAINANTV4.jpg",海南少儿
-http://player.ioioz.com/1237/hainan/hainanm3u8.php?tv=hainan&id=9
+http://player.ioioz.com/1369/hainan/hainanm3u8.php?tv=hainan&id=9
 #EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JNTV7/JNTV7.jpg",济南少儿
-http://player.ioioz.com/1237/hoge/hogechm3u8.php?tv=jinan&id=11
+http://player.ioioz.com/1369/hoge/hogechm3u8.php?tv=jinan&id=11
 #EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SZTV7/SZTV7.jpg",深圳少儿
-http://player.ioioz.com/1237/gd/szm3u8.php?id=7
+http://player.ioioz.com/1369/gd/szm3u8.php?id=7
 #EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN6/DALIAN6.jpg",大连少儿
-http://player.ioioz.com/1237/ln/dalianm3u8.php?id=6
+http://player.ioioz.com/1369/ln/dalianm3u8.php?id=6
 #EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV6/JXTV6.jpg",江西少儿
-http://player.ioioz.com/1237/jx/jiangxim3u8.php?id=jxtv6
+http://player.ioioz.com/1369/jx/jiangxim3u8.php?id=jxtv6
 #EXTINF:-1 group-title="⚽SETV" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CCQTV10/CCQTV10.jpg",重庆少儿
 http://219.153.252.50/PLTV/88888888/224/3221225625/chunklist.m3u8
 
@@ -734,4 +734,5 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b
 http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/877/index.m3u8
 #EXTINF:-1 group-title="👗PBTV" tvg-logo="http://adultiptv.net/lists/logo.png",Visit-X TV
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+
 
