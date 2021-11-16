@@ -30,7 +30,7 @@ http://223.110.251.152:6610/gitv/live1/G_CCTV-13-CQ/G_CCTV-13-CQ/
 http://223.110.251.152:6610/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="🇨🇳CCTV",CCTV15
 http://223.110.251.152:6610/cntv/live1/cctv-15/cctv-15
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="🇨🇳CCTV",CCTV16
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="🇨🇳CCTV",CCTV16
 http://223.110.251.152:6610/gitv/live1/G_CCTV-16-CQ/G_CCTV-16-CQ/
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="🇨🇳CCTV",CCTV17
 http://223.110.251.152:6610/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
@@ -40,7 +40,7 @@ http://39.130.202.77:6610/gitv_live/G_CGTN-HD/G_CGTN-HD.m3u8
 http://39.130.202.77:6610/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cctv5+.png" group-title="🇨🇳CCTV",CCTV5+
 http://223.110.251.152:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
-#EXTINF:-1 tvg-id="21" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="🇨🇳CCTV",CCTV4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="🇨🇳CCTV",CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
 
