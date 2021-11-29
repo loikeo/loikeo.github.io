@@ -41,11 +41,13 @@ http://39.130.202.77:6610/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cctv5+.png" group-title="🇨🇳CCTV",CCTV5+
 http://223.110.251.152:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
 #EXTINF:-1 tvg-id="22" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" tvg-name="CCTV4EUO" group-title="🇨🇳CCTV",CCTV4U
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231615/index.m3u8
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
 #EXTINF:-1 tvg-id="23" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" tvg-name="CCTV4AME" group-title="🇨🇳CCTV",CCTV4A
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231654/index.m3u8
+https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="🇨🇳CCTV",CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1  tvg-id="7244" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png"  tvg-name="爱上4K" group-title="🇨🇳CCTV",AISH4K
+http://223.110.251.152:6610/cntv/live1/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k
 
 
 
