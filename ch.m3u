@@ -46,7 +46,7 @@ https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
 https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="🇨🇳CCTV",CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1  tvg-id="7244" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png"  tvg-name="爱上4K" group-title="🇨🇳CCTV",AISH4K
+#EXTINF:-1  tvg-id="7244" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cx4k.png"  tvg-name="爱上4K" group-title="🇨🇳CCTV",AISH4K
 http://223.110.251.152:6610/cntv/live1/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k
 
 
