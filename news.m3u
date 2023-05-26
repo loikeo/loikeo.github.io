@@ -1,0 +1,96 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CBSNews.us" status="online",CBS News National (720p)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsBaltimore.us" status="online",CBS News Baltimore (720p)
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsChicago.us" status="online",CBS News Chicago (720p)
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsColorado.us" status="online",CBS News Colorado (720p)
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsDetroit.us" status="online",CBS News Detroit (720p)
+https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsDFW.us" status="online",CBS News Dallas Ft Worth (720p)
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" status="online",CBS News Los Angeles (720p)
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsMiami.us" status="online",CBS News Miami (720p)
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us" status="online",CBS News New York (720p)
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+#EXTINF:-1 tvg-id="CBSNewsPittsburgh.us" status="online",CBS News Pittsburgh (720p)
+https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsSacramento.us" status="online",CBS News Sacramento (720p)
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
+
+
+#EXTINF:-1 tvg-id="6073" tvg-name="港台|TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="News",港台|TVBS新闻台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="News",港台|台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzhongwen.png" group-title="General",港台|鳳凰衛視中文
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="News",港台|凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="News",港台|民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="News",港台|有線新聞
+https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://television-live.com/uploads/posts/2019-06/1561572071_lotus-tv-macau.png" group-title="General",港台|莲花卫视
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",港台|TVB Jade (翡翠台)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",港台|TVB Pearl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",港台|TVB J2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://cdn.hklive.tv/xxxx/82/index.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-id="CNN.us" group-title="News",海外|CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="6139" tvg-name="BBC News" tvg-logo="https://static.epg.best/gb/BBCNews.uk.png" group-title="News",海外|BBC
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-name="SkyNews English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png" tvg-id="SkyNewsInternational.uk" group-title="News",海外|SkyNews English
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",海外|TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",海外|TRT World
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",海外|ChannelNewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="News",海外|NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 tvg-id="734" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",海外|France 24 English
+http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="734" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",海外|France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/m3zSu8l.png" group-title="News",海外|FOX NewsNOW
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="News",海外|CBS News National
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsChicago.us" tvg-logo="https://i.imgur.com/qGbVQir.png" group-title="News",海外|CBS News Chicago
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+#EXTINF:-1 tvg-id="730" tvg-name="DW English" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="News",海外|DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="1007" tvg-name="HITS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HITS.png" group-title="Movies",海外|HITS
+http://210.210.155.37/dr9445/h/h37/index.m3u8
+#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://i.imgur.com/CH6VcTR.jpg" group-title="Science",海外|NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="NASATVUHD.us" tvg-logo="https://i.imgur.com/vijNHIo.png" group-title="Science",海外|NASA TV UHD
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
+#EXTINF:-1 tvg-id="6069" tvg-name="东森娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="新闻",港台|东森娱乐台
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="Movies",港台|Celestial Movies
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1 tv-id="" tvg-logo="https://i.imgur.com/601hQsF.png" group-title="Business",港台|点掌财经
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="Sports",海外|Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="6140" tvg-name="	BloombergTV" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",海外|Bloomberg TV Asia
+http://210.210.155.37/dr9445/h/h03/index.m3u8
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Classic",海外|Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports",海外|FIGHT SPORTS
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+
+
