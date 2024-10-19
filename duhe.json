@@ -1,0 +1,69 @@
+//毒盒影视整合本接口
+//关注微信公众号【毒盒迷】有惊喜哦！！
+
+{
+"spider":"https://tv.youdu.fan:666/毒盒影视/du.jar","warningText":"【毒盒影视】提示:
+📢接口软件永远免费 
+📢长期维护切勿贩卖",
+
+"lives":[
+        {
+            "name": "live",
+            "type": 0,
+            "url": "https://tv.youdu.fan:666/live/live.txt",
+            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+        }
+],
+
+"sites": [
+{"key":"豆瓣",
+"name":"🍵公众号【毒盒影视】",
+"type":3,
+"api":"csp_Douban",
+"searchable":0
+},
+
+//jar💡🎄🛶🎄🎃💘💖💖
+{"key":"阿里云盘登录","name":"🐲阿里云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+{"key":"采集之王","name":"🐲采王┃采集","type":3,"api":"https://tv.youdu.fan:666/毒盒影视/js/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://tv.nxog.top/m/js/采集之王.js?type=url&params=https://tv.nxog.top/m/json/采集静态.json"},
+
+{"key":"南瓜影视","name":"🍵南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"快看影视","name":"🍵快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"天天影视","name":"🍵天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"看看影视","name":"🍵看看┃影视","type":3,"api":"csp_WebIV","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"明日影视","name":"🍵明日┃影视","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1},
+{"key":"腐剧视频","name":"🍵腐剧┃影视","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1},
+{"key":"厂长资源","name":"🍵厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.top"},
+{"key":"视频库","name":"🍵视频┃影视","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc"},
+{"key":"热播影视","name":"🍵热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"兄弟影视","name":"🍵兄弟┃影视","type":3,"api":"csp_Wexxiongdiys","searchable":1,"changeable":1},
+{"key":"啾啾影视","name":"🍵啾啾┃影视","type":3,"api":"csp_Wexjiohub","searchable":1,"changeable":1},
+{"key":"农民影视","name":"🍵农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
+{"key":"利播影视","name":"🍵利播┃影视","type":3,"api":"csp_Wexlibhd","searchable":1,"changeable":1},
+{"key":"两个磁力","name":"🍵两个┃影视","type":3,"api":"csp_Wexbttwo","searchable":1,"changeable":1},
+{"key":"机器人","name":"🍵机器┃影视","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com"},
+{"key":"酷看影视","name":"🍵酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1},
+{"key":"素白白","name":"🍵素白┃影视","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1},
+{"key":"骚火影视","name":"🍵骚火┃影视","type":3,"api":"csp_Wexsaohuo","searchable":1,"changeable":1},
+{"key":"在线之家","name":"🍵在线┃之家","type":3,"api":"csp_Wexzxzj","searchable":1,"changeable":1},
+{"key":"追剧影视","name":"🍵追剧┃影视","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"低端影视","name":"🍵低端┃影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"剧圈影视","name":"🍵剧圈┃影视","type":3,"api":"csp_Juqq","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"忍者影视","name":"🍵忍者┃影视","type":3,"api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
+{"key":"毛驴影视","name":"🍵毛驴┃影视","type":3,"api":"csp_MaoLv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"可可影视","name":"🍵可可┃影视","type":3,"api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Voflix","name":"🍵毒毒┃影视","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://voflix.fun/"},
+{"key":"圣城影视","name":"🍵圣城┃影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"FreeOK","name":"🍵盒盒┃影视","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"星辰影视","name":"🍵星辰┃影视","type":3,"api":"csp_WexXingchen","searchable":1,"changeable":1},
+{"key":"愉悦影视","name":"🍵愉悦┃影视","type":3,"api":"csp_Wexyuyueys","searchable":1,"changeable":1},
+{"key":"花蕊影视","name":"🍵花蕊┃影视","type":3,"api":"csp_Wexhuaruitv","searchable":1,"changeable":1},
+{"key":"甲子影视","name":"🍵甲子┃影视","type":3,"api":"csp_Wexjiazitv","searchable":1,"changeable":1},
+
+
+//XBPQ
+{"key": "555yingshi","name":"🎃555┃影视","type":3,"api":"csp_XBPQ","ext": {"分类":"电影$1#电视剧$2#动漫$4","分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"}},
+{"key":"橙汁","name":"🎃橙汁┃影视","type":3,"api":"csp_XBPQ","ext": {"分类":"短剧$42#电视剧$2#动漫$4#电影$1#综艺$3#纪录片$5","分类url":"https://ork.ink/show/{cateId}--------{catePg}---{year}.html"}},
+{"key":"热播之家","name":"🎃热播┃影视","type":3,"api":"csp_XBPQ","ext": {"分类":"电影$1#电视剧$2#动漫$4#综艺$5","分类url":"https://rebozj.pro/type/{cateId}.html"}},
+{"key":"csp_hmhd","name":"🎃河马┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}},
+{"key":"csp_mgtva","name":"🎃木瓜┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url": "
