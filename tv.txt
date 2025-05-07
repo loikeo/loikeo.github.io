@@ -210,6 +210,8 @@ CETV4,https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225
 中国交通频道北京,https://www.cctbn.com/live/video.html?id=11
 中国交通频道重庆,https://www.cctbn.com/live/video.html?id=12
 中国交通频道甘肃,https://www.cctbn.com/live/video.html?id=13
+
+地方,#genre#
 安徽卫视,https://h5.ahtv.cn/folder9000/folder20193
 安徽卫视,https://h5.ahtv.cn/folder9000/folder20193?channellndex=0
 安徽卫视,https://www.ahtv.cn/folder9000/folder20193?channellndex=0
