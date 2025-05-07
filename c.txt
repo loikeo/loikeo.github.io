@@ -1,3 +1,5 @@
+直播,#genre#
+
 松视1,http://18.svi-studio.com:80/live/478790710441/100371347442/5.m3u8
 松视1,http://18.svi-studio.com:80/live/176844830209/558261845324/5.m3u8
 松视1,http://18.svi-studio.com:80/live/055613148424/758984796805/5.m3u8
@@ -256,6 +258,8 @@ vividtv,http://18.svi-studio.com:80/live/917952932058/953281067271/101427.m3u8
 vividtv,http://18.svi-studio.com:80/live/426804892399/739490745427/101427.m3u8
 vividtv,http://18.svi-studio.com:80/live/875355861316/575426927985/101427.m3u8
 vividtv,http://18.svi-studio.com:80/live/656570054361/567275863459/101427.m3u8
+
+svi,#genre#
 兄嫂3,http://18.svi-studio.com:80/movie/478790710441/100371347442/77469.mp4
 激情韩国中年熟女偷情做爱她老公貌似没让她爽过,http://18.svi-studio.com:80/movie/478790710441/100371347442/77471.mp4
 韩国人气美女主播Aicee空姐制服极品美腿多看一眼就会硬,http://18.svi-studio.com:80/movie/478790710441/100371347442/77473.mp4
@@ -673,6 +677,8 @@ Angelababy紧身牛仔裤,http://18.svi-studio.com:80/movie/478790710441/1003713
 挑战私人补习课,http://18.svi-studio.com:80/movie/478790710441/100371347442/79754.mp4
 私人购物者,http://18.svi-studio.com:80/movie/478790710441/100371347442/79755.mp4
 MSM-006丈夫的绿帽癖好,http://18.svi-studio.com:80/movie/478790710441/100371347442/79756.mp4
+
+svi2,#genre#
 麻豆传媒作品-MD-0145毕业儿卡强上后母00,http://18.svi-studio.com:80/movie/478790710441/100371347442/79757.mp4
 天美传媒TMY0015服务女王大人,http://18.svi-studio.com:80/movie/478790710441/100371347442/79758.mp4
 天美传媒TMY0017署假来我家玩的表妹,http://18.svi-studio.com:80/movie/478790710441/100371347442/79759.mp4
@@ -1521,6 +1527,8 @@ ShaburaRental,http://18.svi-studio.com:80/movie/478790710441/100371347442/84403.
 美乳美臀女子,http://18.svi-studio.com:80/movie/478790710441/100371347442/84829.mp4
 E奶花花,http://18.svi-studio.com:80/movie/478790710441/100371347442/84830.mp4
 诱惑闺蜜男友,http://18.svi-studio.com:80/movie/478790710441/100371347442/84835.mp4
+
+svi3,#genre#
 日本AV23,http://12156.vod.redtraffic.xyz/ph5b548f6dd8941/play.m3u8
 日本AV24,http://12156.vod.adultiptv.net/ph5b8c902e07283/play.m3u8
 日本AV25,http://6122.vod.adultiptv.net/ph57dc082d2e128/play.m3u8
