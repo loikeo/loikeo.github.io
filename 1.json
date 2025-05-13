@@ -103,18 +103,7 @@
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
                 "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
             }
-        },
-        {
-            "key": "gdlsp.com",
-            "name": "成人03",
-            "type": 0,
-            "api": "https://www.gdlsp.com/api/xml.php",
-            "searchable": 1,
-            "recordable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
+        }, 
             "header": {
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
                 "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
@@ -123,47 +112,21 @@
             "header": {
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
                 "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-            }      
+            }    
+         },  
             "header": {
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
                 "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
             }
         },
+        
         {
-            "key": "xrbsp.com",
-            "name": "成人06",
-            "type": 0,
-            "api": "https://www.xrbsp.com/api/xml.php",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 1
+     
         },
         {
-            "key": "dadiapi.com",
-            "name": "成人07",
-            "type": 0,
-            "api": "http://dadiapi.com/api.php",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 1
-        },
+           
         {
-            "key": "api.maozyapi.com",
-            "name": "成人08",
-            "type": 1,
-            "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 1
-        },
-        {
-            "key": "xrbsp.com",
-            "name": "成人09",
-            "type": 0,
-            "api": "https://www.xrbsp.com/api/xml.php",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 1
+            
           }
     ],
     "parses": [
